@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 I'm Samuel Kendie Bzuneh,
 
-👩‍💻 I'm a Full Stack Developer and junior Software Engineering student.
-🔭 I'm currently working on developing projects using JavaScript frameworks.
-🌱 I'm currently learning Go.
+•👩‍💻 I'm a Full Stack Developer and junior Software Engineering student.
+•🔭 I'm currently working on developing projects using JavaScript frameworks.
+•🌱 I'm currently learning Go.
 • 💭 Ask me anything regarding Java, Python and C++.
 • 📨 How to reach me: samuelkendie@gmail.com
 
